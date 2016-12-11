@@ -1,0 +1,4 @@
+# files to be ignerd by git
+
+bin/     # comiled binaries
+
